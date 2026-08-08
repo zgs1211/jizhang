@@ -1,0 +1,34 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "jz-taro",
+	"description": "jiezhang",
+	"appid": "wx414689c547b71ab0",
+	"setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "preloadBackgroundData": false,
+    "minified": false,
+    "newFeature": true,
+    "autoAudits": false,
+    "coverView": true,
+    "showShadowRootInWxmlPanel": false,
+    "scopeDataCheck": false,
+    "useCompilerModule": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+    "miniprogram": {
+      "list": [
+        
+      ]
+    }
+  }
+}
